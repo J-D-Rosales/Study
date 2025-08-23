@@ -37,9 +37,11 @@ Y hacer un árbol de problemas (Ya lo hiciste en PI.1)
 
 Describir en una hoja el arbol de problemas (explicado).
 2 hojas. Un ahoja para el árbol y otra para la curva de valor.
-![[Pasted image 20250818205622.png]]
+![[Example_LSB_lsb.png]]
 Lista de alumos. Yo(Para abajo caso 2).
 
 
 # Tarea
 ## Lectura
+Notas para la tarea 1.
+-> Precio.
