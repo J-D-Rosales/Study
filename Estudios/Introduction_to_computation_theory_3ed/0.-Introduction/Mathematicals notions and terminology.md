@@ -1,0 +1,1 @@
+The book is so concise that I desist on writing here. We'll come back on chapter 1.

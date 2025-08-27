@@ -145,3 +145,4 @@ Yo dejo este por aquí:
 }
 ```
 A veces es muy bueno que te ayude chatgpt.
+https://www.youtube.com/watch?v=dJUUHT8EwjI&list=PLDbrnXa6SAzV0J3Un9jRnbbFpuQH-_y-C
