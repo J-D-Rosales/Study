@@ -11,14 +11,12 @@
             "id": "625c26cdd1766684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.1 Introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "CUARTOCICLO/algortimos/semana1/Presentación 1.1 (classes-de-funcoes).pdf"
               },
-              "icon": "lucide-file",
-              "title": "2.1 Introduction"
+              "icon": "lucide-file-text",
+              "title": "Presentación 1.1 (classes-de-funcoes)"
             }
           },
           {
@@ -27,15 +25,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CUARTOCICLO/TEO.COM/seman2/Repaso.md",
+                "file": "Estudios/Introduction_to_algorithms/Growth_functions/3.1 Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repaso"
+              "title": "3.1 Asymptotic notation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "7c3ae61fe2f28735",
@@ -185,53 +183,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "625c26cdd1766684",
+  "active": "164e5317e7e15da3",
   "lastOpenFiles": [
+    "Estudios/Introduction_to_algorithms/2.- Getting_started/2.3 Designing algorithms.md",
+    "Estudios/Introduction_to_algorithms/Growth_functions/3.1 Asymptotic notation.md",
+    "Estudios/Introduction_to_algorithms/Growth_functions",
     "Estudios/Introduction_to_computation_theory_3ed/1 Regular_Languages/1.1 Finite Automata.md",
+    "Estudios/Barton.md",
+    "CUARTOCICLO/Cloud_computing/semana2/1. Virtualización con Máq. Vir. - Taller 4 - V1.00.pdf",
+    "CUARTOCICLO/algortimos/semana1/Presentación 1.1 (classes-de-funcoes).pdf",
+    "CUARTOCICLO/Cloud_computing/semana2/IaC, lanzando con cloud formation..md",
+    "CUARTOCICLO/Cloud_computing/semana2/1. Virtualización con Máq. Vir. V1.50.pdf",
+    "CUARTOCICLO/Cloud_computing/semana2/2. Trabajo Investigación (Entrega Semana 4) V4.10.pdf",
+    "CUARTOCICLO/Cloud_computing/semana2/Como lanzar páginas estáticas con EC2..md",
+    "CUARTOCICLO/Cloud_computing/semana2/Infraestructura como código (Iac).md",
+    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales..md",
+    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales.md",
+    "CUARTOCICLO/algortimos/semana2/Presentación 02 (Listas).pptx.pdf",
+    "CUARTOCICLO/algortimos/semana2/Resumen_Listas_Enlazadas.png",
+    "CUARTOCICLO/algortimos/semana2/Pasted image 20250826184104.png",
+    "CUARTOCICLO/algortimos/semana2/Pasted image 20250826183555.png",
+    "CUARTOCICLO/algortimos/semana2/Listas enlazadas.md",
+    "CUARTOCICLO/Cloud_computing/semana2/1. Virtualización con Máq. Vir. - Taller 3 - V1.10.pdf",
+    "CUARTOCICLO/Cloud_computing/semana2/reglas_de_entrada_agregar.png",
+    "CUARTOCICLO/Cloud_computing/semana2/reglas_de_entrada1.png",
+    "CUARTOCICLO/Cloud_computing/semana2/seguridad_en_instancia.png",
+    "CUARTOCICLO/Cloud_computing/semana2/instancia_aws.png",
+    "CUARTOCICLO/arquitectura/semana2/Logica combinacional.md",
+    "CUARTOCICLO/Cloud_computing/semana1/3. Fund. Comp. Nube V1.10_t.pdf",
+    "CUARTOCICLO/Cloud_computing/semana1/1. Virtualización con Máq. Vir. - Taller 2 - V1.30.pdf",
+    "CUARTOCICLO/Cloud_computing/semana1/3. Fund. Comp. Nube V1.10.pdf",
+    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.1 Introduction.md",
+    "CUARTOCICLO/arquitectura/semana1/Floating point, HARDWARE.md",
+    "CUARTOCICLO/arquitectura/semana1/Floating point (Clase que no fui).md",
+    "CUARTOCICLO/arquitectura/semana1/Introducción al curso.md",
+    "CUARTOCICLO/arquitectura/semana1/Laboratorio - Introduction.md",
+    "CUARTOCICLO/TEO.COM/seman2/Drawing 2025-08-27 16.31.12.excalidraw.md",
     "CUARTOCICLO/TEO.COM/seman2/Repaso.md",
     "CUARTOCICLO/TEO.COM/semaan1/Repaso de Discretas 2..md",
     "CUARTOCICLO/TEO.COM/semaan1/Introducción al curso.md",
-    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales.md",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.1 Introduction.md",
     "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/1.6,.1.7,1.8 and 1.9.md",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design",
     "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/1.5 LOGIC GATES.md",
-    "CUARTOCICLO/Cloud_computing/semana2/Infraestructura como código (Iac).md",
-    "CUARTOCICLO/TEO.COM/seman2",
-    "CUARTOCICLO/Cloud_computing/semana2/2. Trabajo Investigación (Entrega Semana 4) V4.10.pdf",
     "CUARTOCICLO/Cloud_computing/semana2/Pasted image 20250827072825.png",
-    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales..md",
     "CUARTOCICLO/Cloud_computing/MIDU - Cloud computing.md",
-    "CUARTOCICLO/algortimos/semana2/Listas enlazadas.md",
-    "CUARTOCICLO/algortimos/semana2/Pasted image 20250826184104.png",
-    "CUARTOCICLO/algortimos/semana2/Pasted image 20250826183555.png",
-    "Estudios/Introduction_to_computation_theory_3ed/Introduction_to_computation_theory_3ed.pdf",
     "Estudios/Introduction_to_computation_theory_3ed/Automatic_door.png",
     "Estudios/Introduction_to_computation_theory_3ed/1 Regular_Languages/true_abstract_way_of_representing.png",
-    "Estudios/Introduction_to_computation_theory_3ed/1 Regular_Languages/abstract_finite_automata.png",
     "Estudios/Introduction_to_computation_theory_3ed/0.-Introduction/Mathematicals notions and terminology.md",
-    "Estudios/Introduction_to_computation_theory_3ed/1 Regular_Languages",
     "CUARTOCICLO/PI2/semaan1/Introducción al curso.md",
-    "CUARTOCICLO/PI2/seman2/Lectura Blue Ocean Strategy.pdf",
-    "CUARTOCICLO/PI2/seman2/Sin confirmar 923030.crdownload",
-    "CUARTOCICLO/PI2/seman2/Caso Nintendo Wii.pdf",
-    "CUARTOCICLO/PI2/seman2/Sin confirmar 351580.crdownload",
-    "CUARTOCICLO/PI2/seman2",
-    "CUARTOCICLO/empresa/semana2/Principios de Taylor y Fayol.md",
-    "CUARTOCICLO/empresa/semana1/no tittle.md",
-    "CUARTOCICLO/Cloud_computing/EC2/Instancias EC2.md",
-    "CUARTOCICLO/Cloud_computing/EC2/Documentación EC2.md",
-    "CUARTOCICLO/arquitectura/semana1/Floating point (Clase que no fui).md",
-    "CUARTOCICLO/arquitectura/semana1/Floating point, HARDWARE.md",
-    "CUARTOCICLO/PI2/semaan1/Ciclo_horario.jpg",
-    "CUARTOCICLO/arquitectura/semana1/Laboratorio - Introduction.md",
-    "CUARTOCICLO/algortimos/semana2/Resumen_Listas_Enlazadas.png",
-    "Estudios/Introduction_to_computation_theory_3ed/0.-Introduction/Automata, Computability, and Complexity.md",
-    "CUARTOCICLO/algortimos/semana1/Clases de tiempo computacional algoritmos.md",
-    "CUARTOCICLO/algortimos/semana1/Introducción al curso.md",
-    "Estudios/Barton.md",
-    "Estudios/Introduction_to_algorithms/2.- Getting_started/2.3 Designing algorithms.md",
-    "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/Gates in Digital design.png",
-    "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/Range_of_the_system.png"
+    "CUARTOCICLO/empresa/semana2/Principios de Taylor y Fayol.md"
   ]
 }
