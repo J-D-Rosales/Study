@@ -38,3 +38,53 @@ Tomo los 1, donde debo colocar los complementos o no, de las variables para que 
 En donde ahora te va a interesar los max terms. Literalmente es buscar los 1, y ver cómo aplicarlo.
 Aquí son los maxTerms. M0, Mn y pregunto cuales son los maxterms qeu dan 0.
 La representación de los circuitos con las formas canónicas se llaman two levels.
+## Representación de Verilog y cómo codear tanto de forma estrcutral y las otras formas
+Este código funciona, no tocar.
+```
+// Code your design here
+// design.v  (pure Verilog-2001)
+`timescale 1ns/1ps
+
+module or2 (A,B,Y);
+  input A;
+  input B;
+  output Y;
+  assign Y = A | B;
+endmodule
+
+```
+esto fue el diseño 
+y esto es el testbench.
+```
+// Code your testbench here
+// or browse Examples
+// testbench.v
+`timescale 1ns/1ps
+
+module tb;
+  reg A, B;
+  wire Y;
+
+  // Instantiate DUT
+  or2 chanchito (.A(A), .B(B), .Y(Y));
+
+  // VCD for EPWave
+  initial begin
+    $dumpfile("wave.vcd");   // <= EPWave will look for this
+    $dumpvars(0, tb);        // dump everything under tb hierarchy
+  end
+
+  initial begin
+    $display("A B | Y");
+    $monitor("%b %b | %b", A, B, Y);
+
+    A=0; B=0; #5;
+    A=0; B=1; #5;
+	    A=1; B=0; #5;
+    A=1; B=1; #5;
+
+    $finish;
+  end
+endmodule
+
+```
