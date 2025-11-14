@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6691328bf68f74c",
+        "id": "a3d5e0de7e608b28",
         "type": "tabs",
         "children": [
           {
-            "id": "164e5317e7e15da3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CUARTOCICLO/Cloud_computing/semana2/2. Trabajo Investigación (Entrega Semana 4) V4.10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2. Trabajo Investigación (Entrega Semana 4) V4.10"
-            }
-          },
-          {
-            "id": "3e659f1261311350",
+            "id": "1ad4495b86dc8343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CUARTOCICLO/arquitectura/semana3/Laboratorio.md",
+                "file": "literature/C-TOC- ch 3.1 Turing machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laboratorio"
+              "title": "C-TOC- ch 3.1 Turing machines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 206.5
   },
   "right": {
     "id": "7c3ae61fe2f28735",
@@ -107,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CUARTOCICLO/INTRO_CS/semana1/Introducción al curso.md",
+                "file": "permanent/D- Formal definition of the pumping lemma for non context free languages..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introducción al curso"
+              "title": "Backlinks for D- Formal definition of the pumping lemma for non context free languages."
             }
           },
           {
@@ -164,12 +152,12 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,53 +171,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e659f1261311350",
+  "active": "1ad4495b86dc8343",
   "lastOpenFiles": [
-    "CUARTOCICLO/Cloud_computing/semana2/IaC, lanzando con cloud formation..md",
-    "CUARTOCICLO/arquitectura/semana3/Laboratorio.md",
-    "Pasted image 20250903204532.png",
-    "Pasted image 20250903204455.png",
-    "Pasted image 20250903204442.png",
-    "Pasted image 20250903204422.png",
-    "CUARTOCICLO/Cloud_computing/semana2/2. Trabajo Investigación (Entrega Semana 4) V4.10.pdf",
-    "Estudios/Introduction_to_computation_theory_3ed/1 Regular_Languages/1.1 Finite Automata.md",
-    "CUARTOCICLO/Cloud_computing/semana2/Infraestructura como código (Iac).md",
-    "CUARTOCICLO/arquitectura/semana3/Teoría - Logica secuencial.md",
-    "CUARTOCICLO/arquitectura/semana3",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.3 Boolean Algebra.md",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.2 Boolean_equations.md",
-    "CUARTOCICLO/Cloud_computing/semana3/Subir contenedores..md",
-    "CUARTOCICLO/Cloud_computing/semana3/1. Contenedores - Taller 1 - V1.50.pdf",
-    "CUARTOCICLO/Cloud_computing/semana3/Pasted image 20250903073243.png",
-    "CUARTOCICLO/Cloud_computing/semana3/Pasted image 20250903073230.png",
-    "Estudios/Introduction_to_algorithms/Growth_functions/3.1 Asymptotic notation.md",
-    "CUARTOCICLO/TEO.COM/seman2/Repaso.md",
-    "CUARTOCICLO/TEO.COM/seman2/Formas regulares..md",
-    "CUARTOCICLO/TEO.COM/semaan1/Introducción al curso.md",
-    "CUARTOCICLO/Cloud_computing/semana1/Introducción al curso.md",
-    "CUARTOCICLO/algortimos/semana3/Notas.md",
-    "CUARTOCICLO/algortimos/semana1/Presentación 1.1 (classes-de-funcoes).pdf",
-    "CUARTOCICLO/algortimos/semana3",
-    "Estudios/Introduction_to_algorithms/2.- Getting_started/2.3 Designing algorithms.md",
-    "CUARTOCICLO/Cloud_computing/semana2/Como lanzar páginas estáticas con EC2..md",
-    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales..md",
-    "CUARTOCICLO/Cloud_computing/semana2/Virtualización con máquinas virtuales.md",
-    "CUARTOCICLO/Cloud_computing/semana3/Contenedores.md",
-    "CUARTOCICLO/PI2/semna3/Orden presentaciones de canvas.md",
-    "CUARTOCICLO/PI2/semna3/Pasted image 20250901203115.png",
-    "CUARTOCICLO/PI2/semna3",
-    "CUARTOCICLO/Cloud_computing/semana2/instancia_aws.png",
-    "CUARTOCICLO/Cloud_computing/semana3/1. Contenedores - Teoría 1 - V1.00.pdf",
-    "CUARTOCICLO/empresa/semana3/Willy Wong. Clase Hoy día..md",
-    "CUARTOCICLO/empresa/semana3",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/Boolean_theorem_for_several_varibales.png",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/Theorems of One variable.png",
-    "CUARTOCICLO/INTRO_CS/semana1/Introducción al curso.md",
-    "Estudios/Digita_design_and_computer_arquitecture/2_Combinational_Logic_Design/2.1 Introduction.md",
-    "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/1.2 The art of managing complexity.md",
-    "Estudios/Digita_design_and_computer_arquitecture/1-From_cero_to_one/1.3 The digital Abstraction.md",
-    "CUARTOCICLO/Cloud_computing/semana1/Entender los permisos de Linux..md",
-    "CUARTOCICLO/Cloud_computing/semana3/Sin confirmar 965523.crdownload",
-    "CUARTOCICLO/Cloud_computing/semana3"
+    "permanent/D- of a microarchitecture of computers.md",
+    "literature/C-ARCH-Design-cap 7.1 Introduction.md",
+    "literature/C-ARCH-Design-cap 7 - MICROARCHITECTURE.md",
+    "literature/B-Digital Design and Computer Architecture RISC-V Edition.md",
+    "literature/C-ARCH-Design-cap 7.4 MultiCycle  Processor.md",
+    "literature/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath lw instruction.md",
+    "permanent/¿How we do a performance analysis in a multicycle processor?.md",
+    "permanent/¿What it's the critical path in a multicycle processor?.md",
+    "literature/Analysis of the instruction I-type and jal  based on the moore machine for multicyle.md",
+    "permanent/Analysis of the instruction beq, based on moore machine for multicycle.md",
+    "permanent/Analysis of the instruction sw, based on lw in moore machine for multicycle.md",
+    "literature/E-Analysis of the Moore machine for a control unit in the multi cycle system.md",
+    "permanent/¿How the PC is calculated in a multi cycle process for Moore machine - risc v?.md",
+    "literature/Analysis of the phase MemWB in a Moore Machine for a control unit in multi cycle system.md",
+    "permanent/Analysis of the phase MemRead in a Moore Machine for a control unit in multi cycle system.md",
+    "permanent/Analysis of the phase MemAdr in a Moore Machine for a control unit in multi cycle system.md",
+    "permanent/Analysis of the phase Decode in a Moore Machine for a control unit in multi cycle system.md",
+    "permanent/Analysis of the phase Fetch in a Moore Machine for a control unit in multi cycle system.md",
+    "literature/How the control unit for multicycle is bounded?.md",
+    "permanent/D- Control processor unit in computer architecture.md",
+    "permanent/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath beq instruction.md",
+    "permanent/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath sw instruction.md",
+    "permanent/E-Actualizing the PCounter for a multicycle process with lw instruction.md",
+    "permanent/E-writing data for a multicycle process with lw instruction.md",
+    "permanent/E-loading data for a multicycle process with lw instruction.md",
+    "permanent/E-Addressing and sum the address for a multicycle process with lw instruction.md",
+    "ImmSrc encoding single cycle adding jump instruction.png",
+    "Pieline processor with control.png",
+    "Dijkstra Pseudo implemenetation.png",
+    "schematic for an enumerator.png",
+    "Screenshot from 2025-11-09 10-53-40.png",
+    "Screenshot from 2025-11-09 12-07-15.png",
+    "Proof for Theoren 4.7 Decidability for CFG languages.png",
+    "proof idea for theorem 4.5 Determining whether two DFA's recognizes the same languages.png",
+    "Proof for Theorem 4.4 for decidable langauge.png",
+    "Proof idea for Theorem 4.4 of decidable langauge NFA.png",
+    "materials/2. Proyecto Final (Entrega Semana 15) V4.00 (1).pdf",
+    "materials/Introduction to the theory of computation_third edition - Michael Sipser.pdf",
+    "Excalidraw",
+    "materials/Presentación 11 (Grafos - intro).pptx.pdf",
+    "materials/Unconfirmed 27849.crdownload",
+    "materials/Presentación 12 (Búsqueda en Grafos).pptx.pdf",
+    "materials/Unconfirmed 857213.crdownload",
+    "materials/1b. Cloud observability - V1.00.pdf",
+    "materials/Unconfirmed 957812.crdownload",
+    "materials/1a. Monitoreo de Infraestructura y Aplicaciones - Teoría - V1.00.pdf"
   ]
 }

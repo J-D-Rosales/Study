@@ -1,0 +1,2 @@
+![[COntorl signal and dataflow while executing an and instruction.png]]
+The path is way visible, we read the two source operands, we make the Alu do the operation, after that we go directly from alu result to WD3, where we write the data onto the register. Finally the Pc is added +4, the signals are putting in the image. 
