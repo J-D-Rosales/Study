@@ -35,5 +35,14 @@ Los entregables son el informe completo con el codigo fuente. Una presentación 
 
 MI idea es el delivery da un ipnut, y esa lógica se extrapooal como un input para el step function y que se pueda realizar adecuadamente dependiendo al input que es lo que se debe hacer, cambiando el estado naturalmente. 
 
+# Notas para el step function
+
+1)  EL pedido trigerea al step fnction que manda al sqs se manda solo el id:
+2) En base a un trigereo de la pagina web se popea el sqs el id del sqs (Tipo standard), 
+3) EL evnet brignde al ver un cambio en el lambda, (solo apra el primero o para el delibery.) el lambda function se manda al event bridge que manda al step funcitons que cambia el historial de pedidos. , 
+4) En base al trigger de las funciones, es que se manda al step funcitons para poder camiar el historial.
+5) En la fase del empaquetado se envia al sqs, la pagina web le manda al otra vez, donde el event bridge al escuchar el lambda popea el sqs, y se manda al step funcions par aque pase al siguiente estado.
+6) SE usan choices para determinar la ramificación que se necesita.
+
 ## Referencias a notas permanentes o etc
 [[literature/Taco Bell Order Middleware - Enabling Delivery Orders at Massive Scale|Taco Bell Order Middleware - Enabling Delivery Orders at Massive Scale]]

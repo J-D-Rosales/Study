@@ -31,5 +31,12 @@ We first show the decidability for CFG langauges.
 
 We can of course improve this algorithm a lot, however, it terms of understanding we left as it is, and we address optimization later.
 [[Theorem 4.8 Emptiness testing problem for CFG]]
-[[Proof idea for Theorem 5.8 testinf problem for CFG]]
+[[Proof idea for Theorem 4.8 testing problem for E_CFG]]
+
+You might think you can prove a lot of theorems more, but see the next:
+the E_QCfg is not decidable. It test whether two CFL could have the same language, the proof for this is in next chapters.
+
+[[Theorem 4.9 context-free-language-decidability]]
+[[Proof idea for Theorem 4.9 context-free-language-decidability]]
+
 ## Referencias a notas permanentes

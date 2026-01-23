@@ -20,6 +20,7 @@ Related concepts
 [[How a configuration in a turing machine yields another?]]
 [[¿What are halting configuration in a turing machine ?]]
 [[Special cases of a Configuration in a Turing machine]]
+[[D- of a configuration of a turing machine]]
 <span style="color:	#87CEEB">East: Opposite</span>
 
 

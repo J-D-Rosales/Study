@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d5e0de7e608b28",
+        "id": "59bca0c7539c2711",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad4495b86dc8343",
+            "id": "353a92e63db130aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/C-TOC- ch 3.1 Turing machines.md",
+                "file": "fleeting/S-1 PI3 CLASE 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-TOC- ch 3.1 Turing machines"
+              "title": "S-1 PI3 CLASE 2"
+            }
+          },
+          {
+            "id": "9c679100088ca7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fleeting/Semana 3 PI3 clase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 3 PI3 clase 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +69,7 @@
               "type": "search",
               "state": {
                 "query": "tag:#book",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,12 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "right": {
     "id": "7c3ae61fe2f28735",
@@ -157,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,44 +186,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ad4495b86dc8343",
+  "active": "9c679100088ca7d6",
   "lastOpenFiles": [
-    "permanent/D- of a microarchitecture of computers.md",
-    "literature/C-ARCH-Design-cap 7.1 Introduction.md",
-    "literature/C-ARCH-Design-cap 7 - MICROARCHITECTURE.md",
-    "literature/B-Digital Design and Computer Architecture RISC-V Edition.md",
-    "literature/C-ARCH-Design-cap 7.4 MultiCycle  Processor.md",
-    "literature/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath lw instruction.md",
-    "permanent/¿How we do a performance analysis in a multicycle processor?.md",
-    "permanent/¿What it's the critical path in a multicycle processor?.md",
-    "literature/Analysis of the instruction I-type and jal  based on the moore machine for multicyle.md",
-    "permanent/Analysis of the instruction beq, based on moore machine for multicycle.md",
-    "permanent/Analysis of the instruction sw, based on lw in moore machine for multicycle.md",
-    "literature/E-Analysis of the Moore machine for a control unit in the multi cycle system.md",
-    "permanent/¿How the PC is calculated in a multi cycle process for Moore machine - risc v?.md",
-    "literature/Analysis of the phase MemWB in a Moore Machine for a control unit in multi cycle system.md",
-    "permanent/Analysis of the phase MemRead in a Moore Machine for a control unit in multi cycle system.md",
-    "permanent/Analysis of the phase MemAdr in a Moore Machine for a control unit in multi cycle system.md",
-    "permanent/Analysis of the phase Decode in a Moore Machine for a control unit in multi cycle system.md",
-    "permanent/Analysis of the phase Fetch in a Moore Machine for a control unit in multi cycle system.md",
-    "literature/How the control unit for multicycle is bounded?.md",
-    "permanent/D- Control processor unit in computer architecture.md",
-    "permanent/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath beq instruction.md",
-    "permanent/E-Analysis of the phases for sample program in microarchiteture - Multi cycle datapath sw instruction.md",
-    "permanent/E-Actualizing the PCounter for a multicycle process with lw instruction.md",
-    "permanent/E-writing data for a multicycle process with lw instruction.md",
-    "permanent/E-loading data for a multicycle process with lw instruction.md",
-    "permanent/E-Addressing and sum the address for a multicycle process with lw instruction.md",
-    "ImmSrc encoding single cycle adding jump instruction.png",
-    "Pieline processor with control.png",
-    "Dijkstra Pseudo implemenetation.png",
-    "schematic for an enumerator.png",
-    "Screenshot from 2025-11-09 10-53-40.png",
-    "Screenshot from 2025-11-09 12-07-15.png",
-    "Proof for Theoren 4.7 Decidability for CFG languages.png",
-    "proof idea for theorem 4.5 Determining whether two DFA's recognizes the same languages.png",
-    "Proof for Theorem 4.4 for decidable langauge.png",
-    "Proof idea for Theorem 4.4 of decidable langauge NFA.png",
+    "fleeting/S-1 PI3 CLASE 2.md",
+    "fleeting/Semana 3 PI3 clase 2.md",
+    "literature/5.2 Indicator random variables.md",
+    "literature/F-Lemma 5.2 for hiring problem time analysis.md",
+    "literature/E- Analysis of the hiring problem using indicator random variables.md",
+    "literature/E- How can we compute the number of heads in the n coin flips for example of coins?.md",
+    "literature/F- 5.2 for n flip coins and the expected value.md",
+    "literature/¿What are the uses of indicator random variables for not being cumbersome?.md",
+    "literature/F-Lemma 5.1 for expected value in an indicator random variable.md",
+    "literature/D- of a indicator random variable.md",
+    "literature/B-Introduction-to-algorithms - Cormen.md",
+    "literature/5.1 The hiring problem.md",
+    "literature/How can we model the distribution of the inputs in probabilistic analysis?.md",
+    "literature/What's the difference between average running time and expected running time in analyzing algorithm with probabilistic analysis?.md",
+    "literature/Can computers make random numbers?.md",
+    "literature/D- of a Randomized algorithm.md",
+    "literature/What it means uniform random permutation?.md",
+    "literature/E- Assumptions for the probabilistic analysis in the hiring problem.md",
+    "literature/¿What means average case running time?.md",
+    "literature/D- of probabilistic analysis.md",
+    "literature/E- Analysis of Hire-Assistant Algorithm.md",
+    "literature/E- Procedure of Hire-Assistant.md",
+    "literature/E- The hiring problem - Intuition.md",
+    "HIre-Assistant Procedure.png",
+    "fleeting/Untitled.md",
+    "literature/F- formulas of sums and sumatorias.md",
+    "literature/¿When to use each case and when do we know to use the master theorem?.md",
+    "E- for procedure Max-Heap-Increase-Key.png",
+    "Procedure Max-Heap-Increase-Key and Max-Heap Insert.png",
+    "Procedure of Max-Heap-Maximum.png",
+    "Heapsort pseudocode algorithm.png",
+    "Build-Max-Heap Pseudocode.png",
+    "Max-Heapify-Pseudocode.png",
+    "Max-Heapify procedure.png",
+    "Procedure for returning elements on a heap (parent, left child and right child).png",
+    "Max-heap view as binary tree and an array.png",
+    "E- of using the substitution method to solve the recurrence T(n)= 2T(n",
+    "projects/Untitled.base",
     "materials/2. Proyecto Final (Entrega Semana 15) V4.00 (1).pdf",
     "materials/Introduction to the theory of computation_third edition - Michael Sipser.pdf",
     "Excalidraw",
@@ -216,8 +233,6 @@
     "materials/Unconfirmed 27849.crdownload",
     "materials/Presentación 12 (Búsqueda en Grafos).pptx.pdf",
     "materials/Unconfirmed 857213.crdownload",
-    "materials/1b. Cloud observability - V1.00.pdf",
-    "materials/Unconfirmed 957812.crdownload",
-    "materials/1a. Monitoreo de Infraestructura y Aplicaciones - Teoría - V1.00.pdf"
+    "materials/1b. Cloud observability - V1.00.pdf"
   ]
 }

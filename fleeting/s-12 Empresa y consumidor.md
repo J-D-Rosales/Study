@@ -28,3 +28,5 @@ EN el pasado era, por precio, calidad o segmentación, pero exiten otras formas 
 **DIfernciacion por servicio**: Dónde ven que el servicio es mucho mejor, POrque en diseney es poco porbable que se salga el tren etc. EL reglamento.
 
 **DIfrenciación por distribución**: Donde estan todos a las marcas.
+
+DIFRENCIACION POR IMAGEN.

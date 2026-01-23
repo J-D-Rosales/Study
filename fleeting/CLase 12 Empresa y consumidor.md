@@ -48,3 +48,4 @@ ___
 EJEMPLO DE insgihts.
 
 EL insight se peude usar par ala publicidad, no solo para hacer ka ubvestugacuíb de nercadi,
+-> philip kotlr padre del marketing, leer sus libros

@@ -4,5 +4,5 @@ created: 2025-11-10
 ## Resumen 
 [[¿Why it's important to study decidability in theory of computation?]]
 [[C-TOC- ch 4.1 Decidable languages]]
-
+[[C-TOC- ch 4.2 Undecidable languages]]
 ## Referencias a notas permanentes

@@ -26,5 +26,4 @@ x
 x
 
 <span style="color:	#87CEEB">South: What does this lead to</span>
-
-The proof for decidablity for CFG langauges
+[[Proof idea for Theorem 4.7 Decidability for CFG languages]]
